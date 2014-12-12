@@ -1,0 +1,4 @@
+C:\Users\Iameerjohn\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Inayathullah\Trello_ContextMenu\1.0\\Trello_ContextMenu.dll
+C:\Users\Iameerjohn\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Inayathullah\Trello_ContextMenu\1.0\\Trello_ContextMenu.pkgdef
+C:\Users\Iameerjohn\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Inayathullah\Trello_ContextMenu\1.0\\extension.vsixmanifest
+C:\Users\Iameerjohn\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Inayathullah\Trello_ContextMenu\1.0\\Trello_ContextMenu.pdb
